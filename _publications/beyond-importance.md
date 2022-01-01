@@ -5,10 +5,10 @@ collection: publications
 permalink: /publication/beyond-importance
 excerpt: 'A novel way to visualize not only the importance of each feature in tabular data, but also the semantic meaning and relationships of features.'
 date: 2021-11-10
-venue: 'Arxiv (Preprint)'
+venue: 'MDPI (vol. 13), 2021'
 code: 'https://github.com/feature-vectors/feature-vectors'
 package: 'https://pypi.org/project/feature-vectors/'
-paperurl: 'https://www.semanticscholar.org/paper/Beyond-Importance-Scores%3A-Interpreting-Tabular-ML-Ghorbani-Berenbaum/6899359eefa80aa590404e04d8ebff7a49f69072'
+paperurl: 'https://www.mdpi.com/2078-2489/13/1/15/html'
 paperpdf: 'https://mivg.github.io/files/beyond-importance.pdf'
 citation: '@inproceedings{Ghorbani2021BeyondIS, <br>
   title={Beyond Importance Scores: Interpreting Tabular ML by Visualizing Feature Semantics}, <br>
