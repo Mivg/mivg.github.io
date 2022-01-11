@@ -49,6 +49,10 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
+        {% if page.homepage and page.homepage %}
+            <p>See paper homepage <a href="{{ page.paperurl }}" class="btn" target="_blank">here</a>.</p>
+        {% endif %}
+
         {% if page.paperurl and page.paperpdf %}
             <p>See paper page <a href="{{ page.paperurl }}" class="btn" target="_blank">here</a> or <a href="{{ page.paperpdf }}" class="btn" target="_blank">download the pdf</a> directly.</p>
         {% endif %}
