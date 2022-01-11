@@ -8,7 +8,7 @@ date: 2022-01-11
 venue: 'Preprint'
 homepage: 'https://scrolls-benchmark.com'
 code: 'https://github.com/tau-nlp/scrolls'
-paperurl: "https://arxiv.org/abs/2104.05062"
+paperurl: "https://arxiv.org/abs/2201.03533"
 paperpdf: 'https://mivg.github.io/files/scrolls.pdf'
 citation: '@misc{shaham2022scrolls, <br>
     title={SCROLLS: Standardized CompaRison Over Long Language Sequences}, <br>
