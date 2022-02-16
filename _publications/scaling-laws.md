@@ -3,7 +3,7 @@ title: "Scaling Laws Under the Microscope: Predicting Transformer Performance fr
 authors: "<b>Maor Ivgi</b>, Yair Carmon, Jonathan Berant"
 collection: publications
 permalink: /publication/scaling-laws
-excerpt: 'Scaling laws are undoubtedly fascinating, but can they be harnessed for efficient model design? In this work, we explore their usefulness across a variety of language understanding tasks.'
+excerpt: 'Scaling laws are undoubtedly fascinating, but can they be harnessed for efficient model design? In this work, we explore their usefulness across a variety of language understanding tasks, and show that in some cases, they can!'
 date: 2022-02-13
 venue: 'Preprint'
 paperurl: "https://arxiv.org/abs/2202.06387"
