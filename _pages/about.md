@@ -16,7 +16,7 @@ I'm an AI researcher and entrepreneur. I have vast experience in implementing st
   {% include short-archive-single.html %}
 {% endfor %}
 
-[Patentes](/patents)
+[Patents](/patents)
 ========
 {% for post in site.patents reversed %}
   {% include short-archive-single.html %}
