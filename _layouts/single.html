@@ -57,6 +57,10 @@ layout: default
             <p>See paper page <a href="{{ page.paperurl }}" class="btn" target="_blank">here</a> or <a href="{{ page.paperpdf }}" class="btn" target="_blank">download the pdf</a> directly.</p>
         {% endif %}
 
+          {% if not page.paperurl and page.paperpdf %}
+            <p><a href="{{ page.paperpdf }}" class="btn" target="_blank">download the pdf</a> directly.</p>
+        {% endif %}
+
         {% if page.code %}
             <p>Checkout the paper repository in <a href="{{ page.code }}" class="btn" target="_blank">github</a>.</p>
         {% endif %}
