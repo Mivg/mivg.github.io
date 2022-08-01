@@ -2,7 +2,7 @@
 title: "Efficient Long-Text Understanding with Short-Text Models"
 authors: "<b>Maor Ivgi</b>, Uri Shaham, Jonathan Berant"
 collection: publications
-permalink: /publication/scrolls
+permalink: /publication/sled
 excerpt: 'Can short-range LMs perform long-range reasoning? They can!<br>In this work, we propose the <b>SL</b>iding-<b>E</b>ncoder and <b>D</b>ecoder (SLED) which leverages <i>existing</i> battle-proven enc-dec LMs to operate over long-range NLU tasks.'
 date: 2022-08-01
 venue: 'Preprint'
