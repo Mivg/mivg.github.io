@@ -55,9 +55,7 @@ layout: default
 
         {% if page.paperurl and page.paperpdf %}
             <p>See paper page <a href="{{ page.paperurl }}" class="btn" target="_blank">here</a> or <a href="{{ page.paperpdf }}" class="btn" target="_blank">download the pdf</a> directly.</p>
-        {% endif %}
-
-          {% if not page.paperurl and page.paperpdf %}
+        {% elsif page.paperpdf %}
             <p><a href="{{ page.paperpdf }}" class="btn" target="_blank">download the pdf</a> directly.</p>
         {% endif %}
 
