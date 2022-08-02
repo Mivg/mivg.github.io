@@ -7,6 +7,7 @@ excerpt: 'Can short-range LMs perform long-range reasoning? They can!<br>In this
 date: 2022-08-01
 venue: 'Preprint'
 code: 'https://github.com/Mivg/SLED'
+paperurl: "https://arxiv.org/abs/2208.00748"
 paperpdf: 'https://mivg.github.io/files/sled.pdf'
 citation: 'Will be updated soon'
 ---
