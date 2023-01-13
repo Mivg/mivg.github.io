@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/achieving-robustness
 excerpt: 'While many works established that modern transformer-based NLP models are not robust, this work is all about achieving this lost robustness back.'
 date: 2021-04-11
-venue: 'EMNLP'
+venue: 'EMNLP 2021'
 code: 'https://github.com/Mivg/robust_transformers'
 paperurl: "https://arxiv.org/abs/2104.05062"
 paperpdf: 'https://mivg.github.io/files/achieving-robustness.pdf'

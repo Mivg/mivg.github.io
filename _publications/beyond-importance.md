@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/beyond-importance
 excerpt: 'A novel way to visualize not only the importance of each feature in tabular data, but also the semantic meaning and relationships of features.'
 date: 2021-11-10
-venue: 'MDPI (vol. 13)'
+venue: 'MDPI (vol. 13), 2021'
 code: 'https://github.com/feature-vectors/feature-vectors'
 package: 'https://pypi.org/project/feature-vectors/'
 paperurl: 'https://www.mdpi.com/2078-2489/13/1/15/html'

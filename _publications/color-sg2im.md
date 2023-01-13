@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/color-sg2im
 excerpt: 'A novel approach to gradually generate realistic image layouts from scene-graphs by attending to all objects in the generated layout simultaneously.'
 date: 2020-09-23
-venue: 'ICIP 2020'
+venue: 'ICIP 2021'
 code: 'https://github.com/yanivbenny/COLoR'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9506651'
 paperpdf: 'https://mivg.github.io/files/color-sg2im.pdf'
