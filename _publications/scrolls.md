@@ -13,10 +13,11 @@ paperpdf: 'https://mivg.github.io/files/scrolls.pdf'
 citation: '@misc{shaham2022scrolls, <br>
     title={SCROLLS: Standardized CompaRison Over Long Language Sequences}, <br>
     author={Uri Shaham and Elad Segal and Maor Ivgi and Avia Efrat and Ori Yoran and Adi Haviv and Ankit Gupta and Wenhan Xiong and Mor Geva and Jonathan Berant and Omer Levy}, <br>
-    year={2022}, <br>
-    eprint={2201.03533}, <br>
-    archivePrefix={arXiv}, <br>
-    primaryClass={cs.CL} <br>
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing", <br>
+    month = dec, <br>
+    year = "2022", <br>
+    publisher = "Association for Computational Linguistics", <br>
+    url = "https://aclanthology.org/2022.emnlp-main.823", <br>
 }'
 --- 
 NLP benchmarks have largely focused on short texts, such as sentences and paragraphs, even though long texts comprise a considerable amount of natural language in the wild. We introduce SCROLLS, a suite of tasks that require reasoning over long texts. We examine existing long-text datasets, and handpick ones where the text is naturally long, while prioritizing tasks that involve synthesizing information across the input. SCROLLS contains summarization, question answering, and natural language inference tasks, covering multiple domains, including literature, science, business, and entertainment. Initial baselines, including Longformer Encoder-Decoder, indicate that there is ample room for improvement on SCROLLS. We make all datasets available in a unified text-to-text format and host a live leaderboard to facilitate research on model architecture and pretraining methods.

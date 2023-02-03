@@ -11,10 +11,11 @@ paperpdf: 'https://mivg.github.io/files/scaling-laws.pdf'
 citation: '@misc{ivgi2022scaling, <br>
       title={Scaling Laws Under the Microscope: Predicting Transformer Performance from Small Scale Experiments},  <br>
       author={Maor Ivgi and Yair Carmon and Jonathan Berant}, <br>
-      year={2022}, <br>
-      eprint={2202.06387}, <br>
-      archivePrefix={arXiv}, <br>
-      primaryClass={cs.CL}
+      booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022", <br>
+      month = dec, <br>
+      year = "2022", <br>
+      publisher = "Association for Computational Linguistics", <br>
+      url = "https://aclanthology.org/2022.findings-emnlp.544", <br>
 }'
 ---
 Neural scaling laws define a predictable relationship between a model's parameter count and its performance after training in the form of a power law. However, most research to date has not explicitly investigated whether scaling laws can be used to accelerate model development. In this work, we perform such an empirical investigation across a wide range of language understanding tasks, starting from models with as few as 10K parameters, and evaluate downstream performance across 9 language understanding tasks. We find that scaling laws emerge at finetuning time in <i>some</i> NLP tasks, and that they can also be exploited for debugging convergence when training large models. Moreover, for tasks where scaling laws exist, they can be used to predict the performance of larger models, which enables effective model selection. However, revealing scaling laws requires careful hyperparameter tuning and multiple runs for the purpose of uncertainty estimation, which incurs additional overhead, partially offsetting the computational benefits.
