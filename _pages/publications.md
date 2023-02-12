@@ -8,6 +8,8 @@ author_profile: true
 HI
 author.semanticscholar
 site.author.semanticscholar
+{{author.googlescholar}}
+{{site.author.googlescholar}}
 
 {% if author.semanticscholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
