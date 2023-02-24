@@ -7,14 +7,13 @@ excerpt: 'DoG is a tuning-free dynamic SGD step size formula, backed by strong t
 date: 2023-02-08
 venue: 'Preprint'
 code: 'https://github.com/formll/dog'
-paperurl: 'https://will-be-updated-soon.com'
+paperurl: 'https://arxiv.org/abs/2302.12022'
 paperpdf: 'https://mivg.github.io/files/dog.pdf'
-citation: "@misc{ivgi2023DoG, <br>
-    title={DoG is SGD's Best Friend: A Parameter-Free Dynamic Step Size Schedule}, <br>
-    author={Maor Ivgi and Oliver Hinder and Yair Carmon}, <br>
-    year={2023}, <br>
-    archivePrefix={arXiv}, <br>
-    primaryClass={math.OC} <br>
+citation: "@article{ivgi2023dog, <br>
+  title={{D}o{G} is {SGD}'s Best Friend: A Parameter-Free Dynamic Step Size Schedule}, <br>
+  author={Maor Ivgi and Oliver Hinder and Yair Carmon}, <br>
+  journal={arXiv:2302.12022}, <br>
+  year={2023}, <br>
 }"
 ---
 We propose a tuning-free dynamic SGD step size formula, which we call Distance over Gradients (DoG). The DoG step sizes depend on simple empirical quantities (distance from the initial point and norms of gradients) and have no ``learning rate'' parameter. Theoretically, we show that a slight variation of the DoG formula enjoys strong parameter-free convergence guarantees for stochastic convex optimization assuming only <i>locally bounded</i> stochastic gradients. Empirically, we consider a broad range of vision and language transfer learning tasks, and show that DoG's performance is close to that of SGD with tuned learning rate. We also propose a per-layer variant of DoG that generally outperforms tuned SGD, approaching the performance of tuned Adam.
