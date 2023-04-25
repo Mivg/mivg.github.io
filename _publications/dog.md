@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/dog
 excerpt: 'DoG is a tuning-free dynamic SGD step size formula, backed by strong theoretical guarantees and empirically demonstrated over many domains and model-architectures to achieve comparable results to well-tuned SGD with best-practice learning-rate schedule.'
 date: 2023-02-08
-venue: 'Preprint'
+venue: 'ICML (2023)'
 code: 'https://github.com/formll/dog'
 paperurl: 'https://arxiv.org/abs/2302.12022'
 paperpdf: 'https://mivg.github.io/files/dog.pdf'
