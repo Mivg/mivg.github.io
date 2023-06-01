@@ -8,7 +8,7 @@ date: 2021-04-11
 venue: 'EMNLP 2021'
 code: 'https://github.com/Mivg/robust_transformers'
 paperurl: "https://arxiv.org/abs/2104.05062"
-paperpdf: 'https://mivg.github.io/files/achieving-robustness.pdf'
+paperpdf: 'https://arxiv.org/pdf/2104.05062.pdf'
 citation: '@inproceedings{Ivgi2021AchievingMR, <br>
   title={Achieving Model Robustness through Discrete Adversarial Training}, <br>
   author={Maor Ivgi and Jonathan Berant}, <br>

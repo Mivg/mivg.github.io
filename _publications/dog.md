@@ -8,7 +8,7 @@ date: 2023-02-08
 venue: 'ICML (2023)'
 code: 'https://github.com/formll/dog'
 paperurl: 'https://arxiv.org/abs/2302.12022'
-paperpdf: 'https://mivg.github.io/files/dog.pdf'
+paperpdf: 'https://arxiv.org/pdf/2302.12022.pdf'
 citation: "@article{ivgi2023dog, <br>
   title={{D}o{G} is {SGD}'s Best Friend: A Parameter-Free Dynamic Step Size Schedule}, <br>
   author={Maor Ivgi and Oliver Hinder and Yair Carmon}, <br>

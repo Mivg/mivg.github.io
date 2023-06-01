@@ -7,7 +7,7 @@ excerpt: 'Scaling laws are undoubtedly fascinating, but can they be harnessed fo
 date: 2022-02-13
 venue: 'Findings of EMNLP 2022'
 paperurl: "https://arxiv.org/abs/2202.06387"
-paperpdf: 'https://mivg.github.io/files/scaling-laws.pdf'
+paperpdf: 'https://arxiv.org/pdf/2202.06387.pdf'
 citation: '@misc{ivgi2022scaling, <br>
       title={Scaling Laws Under the Microscope: Predicting Transformer Performance from Small Scale Experiments},  <br>
       author={Maor Ivgi and Yair Carmon and Jonathan Berant}, <br>

@@ -8,7 +8,7 @@ date: 2020-09-23
 venue: 'ICIP 2021'
 code: 'https://github.com/yanivbenny/COLoR'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9506651'
-paperpdf: 'https://mivg.github.io/files/color-sg2im.pdf'
+paperpdf: 'https://arxiv.org/pdf/2009.10939.pdf'
 citation: '@inproceedings{ivgi2021scene, <br>
   title={Scene Graph to Image Generation with Contextualized Object Layout Refinement}, <br>
   author={Ivgi, Maor and Benny, Yaniv and Ben-David, Avichai and Berant, Jonathan and Wolf, Lior}, <br>

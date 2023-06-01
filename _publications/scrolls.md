@@ -9,7 +9,7 @@ venue: 'EMNLP 2022'
 homepage: 'https://scrolls-benchmark.com'
 code: 'https://github.com/tau-nlp/scrolls'
 paperurl: "https://arxiv.org/abs/2201.03533"
-paperpdf: 'https://mivg.github.io/files/scrolls.pdf'
+paperpdf: 'https://arxiv.org/pdf/2201.03533.pdf'
 citation: '@misc{shaham2022scrolls, <br>
     title={SCROLLS: Standardized CompaRison Over Long Language Sequences}, <br>
     author={Uri Shaham and Elad Segal and Maor Ivgi and Avia Efrat and Ori Yoran and Adi Haviv and Ankit Gupta and Wenhan Xiong and Mor Geva and Jonathan Berant and Omer Levy}, <br>
