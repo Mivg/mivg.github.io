@@ -8,7 +8,7 @@ date: 2022-08-01
 venue: 'TACL 2023, will be presented in ACL 2023'
 code: 'https://github.com/Mivg/SLED'
 paperurl: "https://arxiv.org/abs/2208.00748"
-paperpdf: 'https://mivg.github.io/files/sled.pdf'
+paperpdf: 'https://arxiv.org/pdf/2208.00748.pdf'
 citation: '@inproceedings{Ivgi2022EfficientLU,<br>
   title={Efficient Long-Text Understanding with Short-Text Models},<br>
   author={Maor Ivgi and Uri Shaham and Jonathan Berant},<br>

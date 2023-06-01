@@ -7,7 +7,7 @@ excerpt: 'ZeroSCROLLS is a suite of datasets that require synthesizing informati
 date: 2023-05-24
 venue: 'Arxiv preprint'
 paperurl: "https://arxiv.org/abs/2305.14196"
-paperpdf: 'https://mivg.github.io/files/zeroscrolls.pdf'
+paperpdf: 'https://arxiv.org/pdf/2305.14196.pdf'
 citation: '@misc{shaham2023zeroscrolls, <br>
       title={ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding},  <br>
       author={Uri Shaham and Maor Ivgi and Avia Efrat and Jonathan Berant and Omer Levy}, <br>
