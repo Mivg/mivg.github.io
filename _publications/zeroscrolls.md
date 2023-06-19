@@ -2,7 +2,7 @@
 title: "ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding"
 authors: "Uri Shaham, <b>Maor Ivgi</b>, Avia Efrat, Jonathan Berant, Omer Levy"
 collection: publications
-permalink: /publication/sled
+permalink: /publication/zeroscrolls
 excerpt: 'ZeroSCROLLS is a suite of datasets that require synthesizing information over long texts. The benchmark includes ten natural language tasks across multiple domains, including summarization, question answering, aggregated sentiment classification and information reordering.'
 date: 2023-05-24
 venue: 'Arxiv preprint'
