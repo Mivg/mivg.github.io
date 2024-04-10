@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/zeroscrolls
 excerpt: 'ZeroSCROLLS is a suite of datasets that require synthesizing information over long texts. The benchmark includes ten natural language tasks across multiple domains, including summarization, question answering, aggregated sentiment classification and information reordering.'
 date: 2023-05-24
-venue: 'Arxiv preprint'
+venue: 'Findings of EMNLP 2023'
 paperurl: "https://arxiv.org/abs/2305.14196"
 paperpdf: 'https://arxiv.org/pdf/2305.14196.pdf'
 citation: '@misc{shaham2023zeroscrolls, <br>

@@ -1,11 +1,11 @@
 ---
-title: "Natural Langauge Processing"
+title: "Natural Langauge Processing, fall 2023"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-nlp
 venue: "Tel-Aviv University, School of CS"
 date: 2024-01-01
-location: "Tel-Aviv, Israel"
+location: "Tel-Aviv University, Israel"
 ---
 Advanced undergraduate course in Natural Language Processing, covering topics from classic unigram methods to most advanced large pretrained language models, instruction finetuning and alignment.
 # Syllabus

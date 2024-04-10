@@ -5,10 +5,9 @@ collection: publications
 permalink: /publication/adog
 excerpt: 'Building on the [DoG](https://mivg.github.io/publication/dog){:target="_blank" rel="noopener noreferrer"} optimizer, ADoG is a tuning-free dynamic accelerated SGD step size formula, backed by strong theoretical guarantees and empirically demonstrated to work well in the convex settings.'
 date: 2024-03-31
-venue: 'ICML (2023)'
-code: 'https://github.com/formll/dog'
-paperurl: 'https://arxiv.org/abs/2302.12022'
-paperpdf: 'https://arxiv.org/pdf/2302.12022.pdf'
+venue: 'Arxiv preprint'
+paperurl: 'https://arxiv.org/abs/2404.00666'
+paperpdf: 'https://arxiv.org/pdf/2404.00666.pdf'
 citation: "@article{kreisler2024accelerated, <br>
   title={Accelerated Parameter-Free Stochastic Optimization}, <br>
   author={Itai Kreisler and Maor Ivgi and Oliver Hinder and Yair Carmon}, <br>
