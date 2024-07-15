@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/adog
 excerpt: 'Building on the [DoG](https://mivg.github.io/publication/dog){:target="_blank" rel="noopener noreferrer"} optimizer, ADoG is a tuning-free dynamic accelerated SGD step size formula, backed by strong theoretical guarantees and empirically demonstrated to work well in the convex settings.'
 date: 2024-03-31
-venue: 'Arxiv preprint'
+venue: 'COLT (2024)'
 paperurl: 'https://arxiv.org/abs/2404.00666'
 paperpdf: 'https://arxiv.org/pdf/2404.00666.pdf'
 citation: "@article{kreisler2024accelerated, <br>
