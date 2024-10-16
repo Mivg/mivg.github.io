@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/fallbacks
 excerpt: 'LLMs often show undesirable behaviors like hallucinations and sequence repetitions. Our study reveals these are all linked fallback behaviors for models under uncertainty, with stronger models shifting to more complex patterns.'
 date: 2024-07-08
-venue: 'Arxiv preprint'
+venue: 'NeurIPS Workshop on Attributing Model Behavior at Scale (ATTRIB 2024)'
 paperurl: 'https://arxiv.org/abs/2407.06071'
 paperpdf: 'https://arxiv.org/pdf/2407.06071'
 citation: "@article{ivgi2024fallbacks, <br>

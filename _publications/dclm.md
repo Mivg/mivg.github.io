@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/dclm
 excerpt: 'We investigate the impact of data curation on language model training, creating a data-centric benchmark where participants filter a 240T token corpus to release a high-quality 4T corpus, used to train a SOTA open-source 7B model.'
 date: 2024-06-17
-venue: 'Arxiv preprint'
+venue: 'NeurIPS 2024'
 paperurl: 'https://arxiv.org/abs/2406.11794'
 paperpdf: 'https://arxiv.org/pdf/2406.11794'
 citation: "@article{li2024datacomplm, <br>
@@ -15,4 +15,5 @@ citation: "@article{li2024datacomplm, <br>
       journal={arXiv preprint arXiv:2406.11794} <br>
 }"
 ---
+[//]: # (https://nips.cc/virtual/2024/poster/97814)
 We introduce DataComp for Language Models (DCLM), a testbed for controlled dataset experiments with the goal of improving language models. As part of DCLM, we provide a standardized corpus of 240T tokens extracted from Common Crawl, effective pretraining recipes based on the OpenLM framework,, a broad suite of 53 downstream evaluations. Participants in the DCLM benchmark can experiment with data curation strategies such as deduplication, filtering,, data mixing at model scales ranging from 412M to 7B parameters. As a baseline for DCLM, we conduct extensive experiments, find that model-based filtering is key to assembling a high-quality training set. The resulting dataset, DCLM-Baseline enables training a 7B parameter language model from scratch to 64% 5-shot accuracy on MMLU with 2.6T training tokens. Compared to MAP-Neo, the previous state-of-the-art in open-data language models, DCLM-Baseline represents a 6.6 percentage point improvement on MMLU while being trained with 40% less compute. Our baseline model is also comparable to Mistral-7B-v0.3, Llama 3 8B on MMLU (63% & 66%),, performs similarly on an average of 53 natural language understanding tasks while being trained with 6.6x less compute than Llama 3 8B. Our results highlight the importance of dataset design for training language models, offer a starting point for further research on data curation.
