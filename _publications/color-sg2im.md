@@ -1,6 +1,6 @@
 ---
 title: "Scene Graph to Image Generation with Contextualized Object Layout Refinement"
-authors: "<b>Maor Ivgi</b>, Yaniv Benny, Avichai Ben-David, Jonathan Berant, and Lior Wolf"
+authors: "<b>Maor Ivgi*</b>, Yaniv Benny*, Avichai Ben-David, Jonathan Berant, and Lior Wolf"
 collection: publications
 permalink: /publication/color-sg2im
 excerpt: 'A novel approach to gradually generate realistic image layouts from scene-graphs by attending to all objects in the generated layout simultaneously.'
