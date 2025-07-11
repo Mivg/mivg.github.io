@@ -9,7 +9,6 @@ author_profile: true
  You can also find my articles on <u><a href="{{site.author.googlescholar}} target="_blank" rel="noopener noreferrer">my Google Scholar profile</a>.</u>
 {% elsif site.author.semanticscholar %}
   You can also find my articles on <u><a href="{{site.author.semanticscholar}}" target="_blank" rel="noopener noreferrer">my Semantic Scholar profile</a>.</u>
-
 {% endif %}
 
 {% include base_path %}
