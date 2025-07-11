@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/long-icl
 excerpt: 'We explore the effectiveness of long-context models using large in-context demonstration sets, revealing that their success largely stems from referencing similar examples, and we uncover unique behaviors of many-shot in-context learning in this new research.'
 date: 2024-04-30
-venue: 'NAACL 2025'
+venue: 'NAACL 2025. <b>Language Modeling SAC Award at NAACL 2025</b>'
 paperurl: 'https://arxiv.org/abs/2405.00200'
 paperpdf: 'https://arxiv.org/pdf/2405.00200.pdf'
 citation: "@article{bertsch2024iclearning, <br>

@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Maor Ivgi"
   avatar           : "maor_profile.jpeg"
-  bio              : "Ph.D. Candidate | NLP Researcher | CTO"
+  bio              : "cs Ph.D | NLP Researcher | CTO"
   location         : "Tel-Aviv"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=4oNPSCMAAAAJ"
   semanticscholar  : "https://www.semanticscholar.org/author/Maor-Ivgi/1962329805"
-  email            : "maorivgi@mail.tau.ac.il"
+  email            : "maor.ivgi@cs.tau.ac.il"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
